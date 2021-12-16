@@ -1,4 +1,4 @@
-# Awesome Lego Universe
+# Lego Universe Server Setup
 
 ![](images/splash-art.jpg)
 
